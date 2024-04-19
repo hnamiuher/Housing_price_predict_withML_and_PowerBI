@@ -5,8 +5,8 @@ In this project, I aim to access the website https://i-batdongsan.com/ to collec
 1. Data Crawling from the website:  
 I utilize libraries such as bs4 and selenium to retrieve the data.  
 2. Data Preprocessing:  
-![alt text](image.png)
 After going through data preprocessing steps, I obtain a data table as follows:  
+![alt text](image.png)
 3. Data Visualization  
 Using Matplotlib library for visualization before feeding into the machine learning models.  
 4. Training basic machine learning models  
